@@ -7,7 +7,7 @@ Space/Cosmos/Astronomy/NASA/ESO
 
 | Type | Title | Size | Format | Link | 
 |------|-------|------|--------|------|
-| Pictures/Infographics/Videos/Concept Arts/Documents | On Vostok, Mercury, Skylab e.t.c | 10gb | Multiple |[Link](magnet:?xt=urn:btih:CA2BA005BBECB495D4ED48F6409DA2E63C1A51FA&dn=Space) |
+| Pictures/Infographics/Videos/Concept Arts/Documents | On Vostok, Mercury, Skylab e.t.c | 10gb | Multiple |[Link](<magnet:?xt=urn:btih:CA2BA005BBECB495D4ED48F6409DA2E63C1A51FA&dn=Space>) |
 | Pictures | Galaxies, Nebulas e.t.c | | TIFF | [Link](magnet:?xt=urn:btih:39C29B948289D1F2BC9F4AB3D60B0E22E91AB6D8&dn=File%20for%20CD.zip&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2fzer0day.ch%3a1337&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969)
 | Pictures | Andromeda galaxy by Hubble Space Telescope | 4gb, 1.5billion pixel | Photoshop Format | [Link](magnet:?xt=urn:btih:5BE3C93B5C5D9150AB819B14B90360182BD3E26C&dn=heic1502a.psb&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80&tr=http%3a%2f%2fdenis.stalker.h3q.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80) | 
 | Pictures | Earth, Comets, ISS Interior, Landing tests, Moon, Spacecrafts + lots of metadata | | | [Link](magnet:?xt=urn:btih:EFB574E3839476F52BFA3D606BA1E4B7F7B784B2&dn=NASA%20Creative%20Commons%20-%20Expeditions%2030-42.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce) | 
