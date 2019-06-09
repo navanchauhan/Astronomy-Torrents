@@ -1,10 +1,6 @@
 # Astronomy-Torrents
 Space/Cosmos/Astronomy/NASA/ESO
 
-10gb of pictures, infographics, videos, concept arts, and documents on Projects: Vostok, Mercury, Apollo, Gemini, Voskhod, Soyuz, Salyut, Skylab, Mir, ISS, SpaceX and more. I reccomend it a lot.
-
-
-
 | Type | Title | Size | Format | Link | 
 |------|-------|------|--------|------|
 | Pictures/Infographics/Videos/Concept Arts/Documents | On Vostok, Mercury, Skylab e.t.c | 10gb | Multiple |magnet:?xt=urn:btih:CA2BA005BBECB495D4ED48F6409DA2E63C1A51FA&dn=Space |
